@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://Tusharlimbasiya-200-silveroak.github.io/recipe-kitchen-usa/sitemap.xml
+Sitemap: https://recipe-kitchen-usa.github.io/sitemap.xml
